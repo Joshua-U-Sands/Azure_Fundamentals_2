@@ -1,0 +1,17 @@
+Text,Sentiment,Positive Score,Negative Score,Neutral Score
+"Yesterday, I went to a new restaurant in town.",neutral,0.0,0.0,0.99
+"The ambiance was nice, with dim lighting and soothing music playing in the background.",positive,1.0,0.0,0.0
+The waiter greeted me warmly and guided me to my table.,positive,0.91,0.0,0.09
+"The menu had a good variety of options, and I decided to try their signature dish.",positive,0.95,0.0,0.04
+"Unfortunately, the food was underwhelming.",negative,0.0,1.0,0.0
+"The presentation was lacking, and the flavors didn't quite live up to my expectations.",negative,0.0,1.0,0.0
+"However, the service remained attentive throughout the meal.",neutral,0.22,0.02,0.76
+"Overall, it was an average dining experience – neither exceptional nor terrible.",negative,0.0,1.0,0.0
+"I might give it another chance in the future, hoping for better culinary delights.",positive,0.97,0.02,0.0
+I recently watched a highly anticipated movie that had received rave reviews from critics.,negative,0.16,0.82,0.02
+The film had a captivating storyline and kept me engaged from start to finish.,positive,0.99,0.0,0.01
+"The acting performances were outstanding, with the lead actors delivering powerful and emotive portrayals.",positive,0.99,0.0,0.0
+"The visual effects were breathtaking, adding a whole new dimension to the viewing experience.",positive,0.98,0.0,0.02
+I was thoroughly impressed and couldn't help but feel a sense of awe and wonder throughout the movie.,positive,0.94,0.06,0.0
+It was an absolute delight to watch and exceeded all my expectations.,positive,1.0,0.0,0.0
+This film is definitely a must-see for any movie enthusiast!,positive,0.98,0.01,0.01
